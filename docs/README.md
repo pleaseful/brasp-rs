@@ -18,7 +18,7 @@ Add the following to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-brasp = { path = "path/to/brasp" }
+brasp = "0.1.0"
 ```
 
 ## Usage
