@@ -2,10 +2,11 @@
 name = "brasp"
 description = "A library designed to handle configuration parsing for command-line applications"
 author = "Bufferization"
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/pleaseful/brasp-rs"
 homepage = "https://pleaseful.github.io/brasp-rs/#/"
+readme = "docs/README.md"
 edition = "2021"
 
 [dependencies]
