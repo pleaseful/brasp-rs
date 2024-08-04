@@ -1,6 +1,11 @@
 [package]
 name = "brasp"
+description = "A library designed to handle configuration parsing for command-line applications"
+author = "Bufferization"
 version = "0.1.0"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/pleaseful/brasp-rs"
+homepage = "https://pleaseful.github.io/brasp-rs/#/"
 edition = "2021"
 
 [dependencies]
