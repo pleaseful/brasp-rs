@@ -18,7 +18,7 @@ Add the following to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-brasp = "0.1.0"
+brasp = "0.1.2"
 ```
 
 ## Usage
